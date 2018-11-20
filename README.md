@@ -1,1 +1,1 @@
-# This repo is for IS590PR data analysis with Python
+# This repo is about Data Analysis
